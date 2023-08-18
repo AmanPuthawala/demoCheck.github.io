@@ -1,5 +1,5 @@
 .container{
-    position: relative;
+    position: a;
     text-align: center;
     color: white;
 }
@@ -12,6 +12,5 @@
 }
 
 img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
+   width: 50px;
 }
