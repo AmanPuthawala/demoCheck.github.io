@@ -21,7 +21,10 @@ li a{
 }
 
 li a:hover{
-    background-color: #111;
+    /* background-color: #111; */
+    filter: drop-shadow(
+        10px 10px 20px rgb(87,87,87)
+    );
 }
 
 ul li a.title{
