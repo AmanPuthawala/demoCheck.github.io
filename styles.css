@@ -114,7 +114,11 @@ h4{
 
 .myexp{
     /* margin-left: -19%; */
-    align-items: flex-start;
+    /* align-items: flex-start;
     display: revert;
-    margin-bottom: 28%;
+    margin-bottom: 28%; */
+
+    height: 500px;
+    width: 100%;
+    max-width: 100%;
 }
