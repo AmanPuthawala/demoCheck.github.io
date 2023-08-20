@@ -48,7 +48,9 @@ ul li a img.title_icon{
 }
 
 img.image_icon {
-    border-radius: 100%;
+    float: left;
+    font-size: x-large;
+    display: flex;
 }
 
 body{
