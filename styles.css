@@ -32,6 +32,7 @@ ul li a.title{
 
 ul li a img.title_icon{
     width: 40px;
+    padding-left: inherit;
 }
 
 /* end navbar styling */
