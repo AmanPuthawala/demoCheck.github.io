@@ -83,3 +83,13 @@ h4{
     margin: inherit;
     padding: 10px;
 }
+
+/* for experience */
+
+.experience{
+    background-color: white;
+}
+
+.myexperience{
+    font-size: 50px;
+}
