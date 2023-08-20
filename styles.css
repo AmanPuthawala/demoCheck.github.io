@@ -29,6 +29,10 @@ ul li a.title{
         font-size: x-large;
 }
 
+ul li a img.title_icon{
+    size: 10px;
+}
+
 /* end navbar styling */
 .container{
     position: relative;
