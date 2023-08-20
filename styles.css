@@ -47,7 +47,7 @@ ul li a img.title_icon{
    transform: translate(-50%, -50%); 
 }
 
-img {
+img.image_icon {
     border-radius: 100%;
 }
 
