@@ -25,7 +25,8 @@ li a:hover{
     filter: drop-shadow(
         10px 10px 20px rgb(29, 29, 29)
     );
-    color: blueviolet;
+    color: rgb(74,26,44)
+    
 }
 
 ul li a.title{
