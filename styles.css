@@ -39,6 +39,7 @@ ul li a img.title_icon{
 }
 
 /* end navbar styling */
+
 .container{
     position: relative;
     text-align: center;
@@ -54,6 +55,9 @@ ul li a img.title_icon{
 
 img.image_icon {
     border-radius: 100%;
+    filter: drop-shadow(
+        10px 10px 20px rgb(87,87,87)
+    );
 }
 
 body{
