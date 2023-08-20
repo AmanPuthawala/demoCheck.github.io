@@ -30,7 +30,7 @@ ul li a.title{
 }
 
 ul li a img.title_icon{
-    size: 10px;
+    width: 40px;
 }
 
 /* end navbar styling */
