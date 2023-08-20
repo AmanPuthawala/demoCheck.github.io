@@ -7,9 +7,9 @@ ul{
     background-color: none;
 }
 
-li{
+/* li{
     float: right;
-}
+} */
 
 li a{
     display: block;
@@ -17,14 +17,15 @@ li a{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    float: right;
 }
 
 li a:hover{
     background-color: #111;
 }
 
-a.title{
-        font: left;
+ul li a.title{
+        float: left;
 }
 
 /* end navbar styling */
