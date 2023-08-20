@@ -132,3 +132,7 @@ h4{
     margin-right: 5px;
     font-weight: 450;
 }
+
+.cmplogo{
+    filter: drop-shadow(10 10 10 black);
+}
