@@ -113,7 +113,7 @@ h4{
 }
 
 .myexp{
-    margin-left: -19%;
+    /* margin-left: -19%; */
     align-items: flex-start;
     display: revert;
     margin-bottom: 28%;
