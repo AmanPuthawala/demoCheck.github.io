@@ -55,10 +55,7 @@ ul li a img.title_icon{
 
 img.image_icon {
     border-radius: 100%;
-    filter: drop-shadow(
-        10px 10px 20px rgb(87,87,87)
-    );
-}
+   }
 
 body{
     background-image: url('bg1.jpg');
