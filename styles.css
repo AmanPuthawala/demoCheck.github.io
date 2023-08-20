@@ -26,6 +26,7 @@ li a:hover{
 
 ul li a.title{
         float: left;
+        font-size: x-large;
 }
 
 /* end navbar styling */
