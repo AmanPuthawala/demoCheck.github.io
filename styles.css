@@ -150,6 +150,7 @@ footer{
     font-family: "Open Sans";
     padding-top: 40px;
     color: #fff;   
+    box-sizing: border-box;
 }
 
 .footer-content{
