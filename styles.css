@@ -1,3 +1,9 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /* for newbar */
 ul{
     list-style-type: none;
@@ -149,8 +155,8 @@ footer{
     width: 100vw;
     font-family: "Open Sans";
     padding-top: 40px;
-    position: absolute;
     bottom: 0;
+    margin-top: 5%;
     left: 0;
     right: 0;
     color: #fff;   
