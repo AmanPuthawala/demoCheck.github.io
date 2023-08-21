@@ -167,3 +167,35 @@ footer{
     text-transform: capitalize;
     line-height: 3rem;
 }
+
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+}   
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;    
+}
+
+.socials li{
+    margin: 0  10px;
+}
+
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i{
+    font-style: 1.1rem;
+    transform: color .4s ease;
+}
+
+.socials a:hover i{
+    color: aqua;
+}
