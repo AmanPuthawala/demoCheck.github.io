@@ -134,5 +134,7 @@ h4{
 }
 
 .cmplogo{
-    filter: drop-shadow(5px 5px 10px black);
+    float: right;
+    padding-right: 8%;
+    padding-top: 1%;
 }
