@@ -305,3 +305,8 @@ footer{
     color: white;
     transform: rotateY(180deg);
   }
+
+  .sizing{
+    width: 220px;
+    height: 200px;
+  }
