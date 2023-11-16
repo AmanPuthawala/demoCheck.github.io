@@ -267,7 +267,8 @@ footer{
     width: 300px;
     height: 200px;
     margin-top: 3%;
-    margin-left: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
     /* border: 1px solid #f1f1f1; */
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
