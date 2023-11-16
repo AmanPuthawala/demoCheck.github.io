@@ -318,3 +318,7 @@ footer{
     width: 220px;
     height: 200px;
   }
+
+  .flipable-box{
+    display: flex;
+  }
