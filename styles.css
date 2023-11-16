@@ -121,6 +121,7 @@ h4{
 .eximage{
     height: 430px;
     width: 600px;
+    display: grid;
 }
 
 .myexp{
