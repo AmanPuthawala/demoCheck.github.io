@@ -324,3 +324,9 @@ footer{
     display: flex;
     justify-content: center;
   }
+
+  .flipable-box1{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
