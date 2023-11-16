@@ -321,4 +321,5 @@ footer{
 
   .flipable-box{
     display: flex;
+    justify-content: center;
   }
